@@ -1,3 +1,3 @@
 # test-target-repo
 Test syncing only
-UPDATE
+UPDATE 2
